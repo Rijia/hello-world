@@ -1,2 +1,2 @@
 # hello-world
-test1 for python course
+Hey, this is the test for a course using github!
